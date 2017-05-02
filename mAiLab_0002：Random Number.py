@@ -1,7 +1,6 @@
 
 # coding: utf-8
 
-# In[ ]:
 
 import re
 import random
