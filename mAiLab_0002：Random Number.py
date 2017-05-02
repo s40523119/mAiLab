@@ -57,22 +57,3 @@ password_generate(20)
 #精通python:http://www.books.com.tw/products/0010690075
 
 
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
